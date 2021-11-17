@@ -18,7 +18,7 @@ packGenerator.com was an idea I had in the summer of 2020. As an avid baseball c
 ## Erebus
 Erebus was a 20 person team at Princeton University which designed a Lunar Lander to drill and analyze regolith for water on the south pole of the lunar surface and an accompanying Lunar communications orbiter. I was an elected team lead on this project, and was responsible for the science payload on the lander and propulsion systems on the orbiter. Through this project I learned many valuable lessons about engineering design and requirements workflow in a larger team. Some challenges I had to deal with were extreme temperature constraints in the shaded Shackleton crater and volatile sublimation. As for the orbiter, I worked with the GNC team to provide an adequate total impulse over the proposed mission with a hydrazine thruster.
 
-## ACO
+## Ant Colony Optimization
 This paper is the result of research into how Ant Colony Optimization algirthms are used in the real-world.
 
 ## AutoCookie

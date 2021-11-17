@@ -22,7 +22,7 @@ Erebus was a 20 person team at Princeton University which designed a Lunar Lande
 This paper is the result of research into how Ant Colony Optimization algirthms are used in the real-world.
 
 ## AutoCookie
-This project was to design an algorithm that takes a clipart image as an input and outputs an "outline" image that can be used to create a 3D printable cookie cutter. The .exe file takes candidate.jpg, and transforms it into finished_prod.jpg, which can then be used to print a cookie cutter.
+This project was to design an algorithm that takes a clipart image as an input and outputs an "outline" image that can be used to create a 3D printable cookie cutter. The .exe file takes candidate.jpg, and transforms it into finished_prod.jpg, which can then be used to 3D print a cookie cutter.
 
 ## Coursework
 These are examples of my coursework at Princeton University. Included here currently is General Relativity. 
